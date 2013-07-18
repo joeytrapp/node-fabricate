@@ -21,5 +21,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/joeytrapp/node-fabricate/issues"
+  },
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "underscore": "~1.5.1",
+    "uglify-js": "~2.3.6",
+    "mincer": "~0.5.1"
   }
 }
