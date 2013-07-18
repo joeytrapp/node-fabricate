@@ -1,6 +1,6 @@
 {
   "name": "fabricate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Combines mincer and uglify-js to build dependent files and a source map",
   "main": "index.js",
   "scripts": {
