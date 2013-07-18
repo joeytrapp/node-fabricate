@@ -1,1 +1,1 @@
-module.exports = require('./fabricate');
+module.exports = require('./lib/fabricate');
