@@ -11,6 +11,8 @@
     "url": "git://github.com/joeytrapp/node-fabricate.git"
   },
   "keywords": [
+    "fabricate",
+    "build",
     "mincer",
     "uglify",
     "assets",
